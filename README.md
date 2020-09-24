@@ -1,10 +1,10 @@
 # vue3
 
-# 第一步需要安装yarn
+### 第一步需要安装yarn
 
-# 安装之后
+### 安装之后
 yarn install
-# 运行
+### 运行
 yarn serve
-# 打包
+### 打包
 yarn build
